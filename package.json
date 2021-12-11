@@ -1,0 +1,26 @@
+{
+  "name": "xuvibook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minhb0k24a/xuvibook.git"
+  },
+  "author": "Minhb0k24a",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/minhb0k24a/xuvibook/issues"
+  },
+  "homepage": "https://github.com/minhb0k24a/xuvibook#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "express-session": "^1.17.2"
+  }
+}
